@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Sourav12131
+- 👋 Hi, I’m @Sourav
 - 👀 I’m interested in ...learn laravel
 - 🌱 I’m currently learning ...laravel
 - 💞️ I’m looking to collaborate on ...laravel
